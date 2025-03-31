@@ -1,1 +1,1 @@
-Hello there, this is my file - Albino Cheetah
+Totally new text to create a merge conflict - Albino Pig
