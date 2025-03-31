@@ -1,1 +1,1 @@
-Hello there, this is my file - Albino Hippo
+Hello there, this is my file - Albino Cheetah
