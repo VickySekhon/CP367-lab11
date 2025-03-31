@@ -1,1 +1,1 @@
-Hello there, this is my file - Albino Hippo
+I'm creating a merge conflict right now! - Hippo
